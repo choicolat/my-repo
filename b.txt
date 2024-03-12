@@ -2,3 +2,7 @@
 변경사항
 staging area- add .
 기록남김 git commit -m 'messge'
+git log 가 길어지면 'q' 로 탈출 가능
+git log --oneline
+
+git diff 삭제된 것도 나옴
